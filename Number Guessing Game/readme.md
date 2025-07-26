@@ -14,9 +14,28 @@ A simple and fun **Guess the Number** game built using Python's `tkinter` GUI li
 - 🖥️ User-friendly graphical interface using `tkinter`
 - 🔁 Option to play again without restarting the program
 - 🌙 Lightweight and beginner-friendly code
-
+- 5️⃣ Chances each time you run the code
+- 😁 Enjoy!!!
 
 ## 📸 Screenshots
 
 ![Game UI](guessgame.png)
 
+
+## 🛠️ Tech Stack
+
+- **Python 13.8.5**
+- **tkinter** – for GUI
+- **random module** – to generate the mystery number
+
+---
+
+## 🧩 How to Play
+
+1. Run the game using Python.
+2. Enter your guess between the given range.
+3. Get hints: "Too High" or "Too Low".
+4. Guess until you find the right number!
+5. Play again as much as you'd like.
+
+# MadeBy -- Sarthak Bora  
