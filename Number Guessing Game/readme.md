@@ -18,5 +18,5 @@ A simple and fun **Guess the Number** game built using Python's `tkinter` GUI li
 
 ## 📸 Screenshots
 
-
+![Game UI](guessgame.png)
 
