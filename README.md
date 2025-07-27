@@ -16,8 +16,8 @@ Fun/Useful Modules – like random, datetime, pyttsx3, speech_recognizer etc. (u
 | Project Name            | Description                                       | Tech Used         |
 | ----------------------- | ------------------------------------------------- | ----------------- |
 | 🕹️ Rock Paper Scissors | Classic game vs the computer                      | random, builtins  |
-| 📅 Age Calculator       | Calculate your age in years, months, and days     | datetime, Tkinter |
+| 🔢Number Guessing Game  | Guess the Random Number Generated you have 5 chances| Random, Tkinter |
 | 🔐 Password Generator   | Generate strong random passwords                  | random, string    |
 | 🎲 Dice Roller          | Roll a virtual dice with animation (optional GUI) | Tkinter, random   |
-| 🧠 Quiz App             | Mini quiz with scoring system and GUI             | Tkinter           |
+| 1️⃣➗2️⃣ Binary Search   | Implementation of Binary Search algorithm     | Tkinter, python   |          |
 | 🖼 ASCII Art Generator  | Turn text/images into ASCII art                   | pyfiglet, PIL\*   |
