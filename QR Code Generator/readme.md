@@ -13,7 +13,7 @@ A simple desktop application built with **Python**, **Tkinter**, and **PyQRCode*
 
 ## 📸 Demo
 
-![QR Generator Screenshot](screenshot.png) <!-- Add your screenshot image path here -->
+![QR Code Generator](screenshot.png) <!-- Add your screenshot image path here -->
 
 ---
 
